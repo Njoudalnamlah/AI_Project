@@ -9,7 +9,7 @@ sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
 export LANG=en_US.UTF-8
 
 locale  # verify settings
-## Setup Sources
+## Setup Sources
 You will need to add the ROS 2 apt repository to your system. First, make sure that the Ubuntu Universe repository is enabled by checking the output of this command.
 
 apt-cache policy | grep universe
@@ -42,7 +42,7 @@ sudo apt install ros-humble-desktop
 ROS-Base Install (Bare Bones): Communication libraries, message packages, command line tools. No GUI tools.
 
 sudo apt install ros-humble-ros-base
-### Environment setup
+#### Environment setup
 Sourcing the setup script
 Set up your environment by sourcing the following file.
 
