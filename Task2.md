@@ -92,9 +92,5 @@ sudo apt install ros-foxy-ros-base
 echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
-if you use zsh 
 
-```
-echo "source /opt/ros/foxy/setup.zsh" >> ~/.zshrc
 
-```
