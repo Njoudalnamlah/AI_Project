@@ -96,5 +96,5 @@ if you use zsh
 
 ```
 echo "source /opt/ros/foxy/setup.zsh" >> ~/.zshrc
-source ~/.zshrc
+
 ```
