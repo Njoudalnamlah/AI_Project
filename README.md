@@ -18,7 +18,7 @@ This repository contains two helpful walkthroughs:
   - Install dependencies
   - Build a Catkin workspace
   - Clone and launch an Arduino Robot Arm! 🤖
----
+  - 
 ## 📂 Files Included
 
 ├── XubuntuJetsonNano.md    # ROS 2 Foxy on Jetson Nano with Xubuntu
