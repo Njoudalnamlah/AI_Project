@@ -6,10 +6,7 @@ This repository contains two helpful walkthroughs:
 - 🌱 **Install Xubuntu + ROS 2 Foxy** on **Jetson Nano**
 - 🛠️ **Install ROS Noetic** on **Ubuntu 20.04**
 
----
-
 ## 🚀 Get Started
----
 
 ### 🐧 2. ROS Noetic on Ubuntu 20.04
 
@@ -21,16 +18,12 @@ This repository contains two helpful walkthroughs:
   - Install dependencies
   - Build a Catkin workspace
   - Clone and launch an Arduino Robot Arm! 🤖
-
 ---
-
 ## 📂 Files Included
 
-```
-.
 ├── XubuntuJetsonNano.md    # ROS 2 Foxy on Jetson Nano with Xubuntu
 ├── RosOnUbuntu.md          # ROS Noetic on Ubuntu 20.04 with Arduino arm
 └── README.md               # This file (overview and intro)
-```
+
 
 
